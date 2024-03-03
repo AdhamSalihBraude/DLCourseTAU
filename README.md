@@ -1,2 +1,2 @@
-The code in thi project is for the Deep Learning course in Tel-Aviv Univ.
-Please contact me if you need to run these codes
+The code in this project is for the Deep Learning course at Tel-Aviv Univ.
+Feel free to contact me via email if you need to run these codes
